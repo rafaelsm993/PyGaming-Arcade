@@ -40,9 +40,6 @@ To play Bee Honey Game:
 - Use the mouse to guide the bee across the screen.
 - Collect as many flowers as possible while avoiding the spiders.
 
-------------
-
-
 # Notes
 
 Please keep in mind the following note when playing the games:
