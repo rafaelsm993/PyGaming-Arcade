@@ -1,12 +1,12 @@
 # Pygame Studies
 This repository contains two simple games: Pong and Bee Honey. Both games were written in Python and can be played by running the corresponding Python files.
 
-# Prerequisites
+## Prerequisites
 Before running the code, ensure that you have Python installed on your system. Additionally, you need to install the Pygame library. If you don't have Pygame installed, you can install it by running the following command:
 
 		pip install pygame
 
-# How to Play
+## How to Play
 To play the games, follow the instructions below:
 
 ### PyPong
@@ -40,7 +40,7 @@ To play Bee Honey Game:
 - Use the mouse to guide the bee across the screen.
 - Collect as many flowers as possible while avoiding the spiders.
 
-# Notes
+## Notes
 
 Please keep in mind the following note when playing the games:
 
